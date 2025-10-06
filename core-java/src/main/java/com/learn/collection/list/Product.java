@@ -1,4 +1,4 @@
-package com.learn.collection;
+package com.learn.collection.list;
 
 public class Product implements Comparable<Product> {
     String name;
